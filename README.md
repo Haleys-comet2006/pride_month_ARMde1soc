@@ -1,1 +1,1 @@
-# pride_month_ARMde1soc
+Go to https://cpulator.01xz.net/?sys=arm-de1soc to run the code, then slowly type the word "rainbow" on the first ps2 keyboard (the one whose base address is ff200100) and you'll see what happens on the VGA :)
